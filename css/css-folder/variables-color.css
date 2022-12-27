@@ -1,0 +1,7 @@
+:root {
+  --bg-body: rgb(149, 149, 149);
+  --hover-color: var(--bg-body);
+
+  /* header */
+  --bg-header: rgb(176, 173, 173);
+}

@@ -1,0 +1,8 @@
+body {
+  width: 100vw;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 1rem;
+}
