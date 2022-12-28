@@ -1,5 +1,12 @@
 body {
   background-color: var(--bg-body);
+  font-family: "Lato", sans-serif;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 0.8rem;
+  color: white;
+}
+main > section {
+  margin: 3.125rem;
 }
 ul {
   list-style: none;
@@ -12,4 +19,5 @@ a {
 li:hover {
   background-color: var(--hover-color);
   border-radius: 1.25rem;
+  color: black;
 }

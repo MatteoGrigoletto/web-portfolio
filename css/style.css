@@ -1,5 +1,6 @@
 @import "css-folder/reset.css";
 @import "css-folder/general.css";
 @import "css-folder/container.css";
-@import "css-folder/header-style.css";
+@import "css-folder/main/main-style.css";
 @import "css-folder/variables-color.css";
+@import "css-folder/header/header-style.css";

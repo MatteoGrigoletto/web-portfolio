@@ -1,0 +1,9 @@
+header {
+  background-color: var(--bg-header);
+  height: 3.125rem;
+  z-index: 999;
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+}
